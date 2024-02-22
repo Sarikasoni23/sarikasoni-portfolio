@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'sarikasoni.vercel.me',
-    href: 'https://sarikasoni.vercel.me',
+    link: 'sarikasoni-portfolio.vercel.app',
+    href: 'https://sarikasoni-portfolio.vercel.app',
   },
   {
     social: 'github',
