@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Web Scraping for book names",
     "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
+    "description": "This project involves automating the extraction of book-related data from websites such as book titles, authors for use in a structured database.",
     "tags": ["python", "requests", "BeautifulSoup", "pandas"],
     "source_code": "https://github.com/Sarikasoni23/Web_scraping_for_book_names"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Face Recognition",
     "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
+    "description": "A face recognition project utilizes computer vision algorithms to identify and verify individuals based on facial features, enhancing security and user authentication applications.",
     "tags": ["python", "cv2"],
     "source_code": "https://github.com/Sarikasoni23/Face_Recognition"
   },
@@ -19,23 +19,23 @@
     "id": 3,
     "name": "Cart",
     "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
+    "description": "A cart project involves designing an online shopping cart system for streamlined e-commerce transactions, enabling users to add, manage, and purchase items with ease.",
     "tags": ["rails", "sqlite3", "puma", "jbuilder", "capybara", "selenium", "devise"],
     "source_code": "https://github.com/Sarikasoni23/Cart"
   },
   {
     "id": 4,
     "name": "QuizIT",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "image": "/quizit.png",
+    "description": "QuizIt project is a digital platform that facilitates the creation, administration, and scoring of quizzes, providing an interactive and engaging way for users to test and enhance their knowledge.",
     "tags": ["flutter", "cupertino_icons", "http", "provider", "shared_preferences"],
     "source_code": "https://github.com/Sarikasoni23/QuizIT"
   },
   {
     "id": 5,
     "name": "Medical Center",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "image": "/medical-center.png",
+    "description": "The Medical Center project aims to establish an efficient healthcare system, integrating patient management, appointment scheduling, and medical records for enhanced medical care services.",
     "tags": ["netbeans", "mysql", "jdk", "tomcat"],
     "source_code": "https://github.com/Sarikasoni23/Medical-Center"
   }
